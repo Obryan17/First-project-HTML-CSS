@@ -1,0 +1,380 @@
+ 
+.headers{
+    width: 100%;
+    height: 15vh;
+   }
+
+header{
+    width: 100%;
+    height: 14vh;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid rgb(223, 214, 214);
+ }
+ .logoHeader{
+    width: 20%;
+    height: 12vh;
+ }
+  .barreRecherche{
+    width: 40%;
+    height: 12vh;
+  }
+  .search{
+   text-align: center;
+   margin: 4vh;
+  }
+  #boutton{
+    width: 11%;
+    height: 6vh;
+  }
+ .petitesIcones{
+    width: 30%;
+    height: 12vh;
+    display: flex;
+    justify-content: space-between;
+    margin: 4vh;
+ }
+
+.sousHeader{
+    width: 100%;
+    height: 7vh;
+     display: flex;
+    justify-content: space-between;
+    border: 1px solid rgb(206, 201, 201);
+}
+ .categorie{
+    width: 15%;
+    height: 7vh;
+ }
+ .milieu{
+    width: 55%;
+    height: 7vh;
+    display: flex;
+    justify-content: space-between;
+ }
+ .align{
+   display: flex;
+   justify-content: space-evenly;
+ }
+ .anglais{
+    width: 10%;
+    height: 7vh;
+ }
+ .drapeau{
+    width: 10%;
+    height: 7vh;
+ }
+
+ .blo{
+   width: 100%;
+   height: 60vh;
+   display: flex;
+   justify-content: space-between;
+ }
+ .block2{
+   width: 5%;
+   height: 60vh;
+ }
+ .block1{
+   width: 100%;
+   height: 60vh;
+   border: 1px solid rgb(214, 211, 211);
+ }
+  .block3{
+   width: 5%;
+   height: 60vh;
+  }
+
+.grandeBande{
+    width: 98%;
+    height: 29vh;
+    margin: 1vh;
+    border: 1px solid rgb(243, 239, 239);
+ }
+ .bande{
+   width: 99%;
+   height: 28vh;
+   margin: 1vh;
+   display: flex;
+   justify-content: space-between;
+  }
+  .bande1{
+   width: 22%;
+   height:26vh ;
+   background-color: rgb(219, 159, 122);
+   border: 1px solid rgb(243, 242, 242);
+   border-radius: 5px;
+  }
+  #discover{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+  }
+  #bouttonn{
+    background-color: rgb(194, 192, 192);
+    border: 1px solid rgb(19, 19, 19);
+    border-radius: 5px;
+  }
+  .bande2{
+   width: 22%;
+   height:26vh ;
+   background-color: rgb(210, 99, 30);
+   border: 1px solid rgb(243, 242, 242);
+   border-radius: 5px;
+  }
+  .bouttonn1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  #bouttonn1{
+    background-color: rgb(194, 192, 192);
+    border: 1px solid rgb(19, 19, 19);
+    border-radius: 5px;
+  }
+  .bande3{
+   width: 22%;
+   height:26vh ;
+   background-color: rgb(210, 99, 30);
+   border: 1px solid rgb(243, 242, 242);
+   border-radius: 5px;
+  }
+  .bande4{
+   width: 22%;
+   height:26vh ;
+   background-color: rgb(210, 99, 30);
+   border: 1px solid rgb(243, 242, 242);
+   border-radius: 5px;
+  }
+
+  .blo1{
+   width: 100%;
+   height: 60vh;
+   display: flex;
+   justify-content: space-between;
+  }
+  .cote1{
+   width: 5%;
+   height:150vh ;
+   border: 1px solid rgb(240, 235, 235);
+  }
+ .cote{
+   width: 90%;
+   height: 150vh;
+   display: flex;
+   justify-content: space-between;
+ }
+  .first{
+   width:100% ;
+   height: 50vh;
+   border: 1px solid rgb(187, 186, 186);
+   display: flex;
+   justify-content:space-between;
+  }
+  .article1{
+   width: 35%;
+   height: 50vh;
+   }
+  .article2{
+   width: 65%;
+   height: 50vh;
+  }
+   .cote2{
+   width: 5%;
+   height:150vh ;
+   }
+
+    
+
+  .blo2{
+   width: 100%;
+   height: 60vh;
+   display: flex;
+   justify-content: space-between;
+  }
+  .cote3{
+   width: 5%;
+   height:150vh ;
+   }
+  .second{
+   width:100% ;
+   height: 50vh;
+   border: 1px solid rgb(187, 186, 186);
+   display: flex;
+   justify-content:space-between;
+  }
+  .article3{
+    width: 35%;
+   height: 50vh;
+  }
+  .article4{
+    width: 65%;
+   height: 50vh;
+  }
+  .cote4{
+   width: 5%;
+   height:150vh ;
+   }
+
+  .blo3{
+   width: 100%;
+   height: 60vh;
+   display: flex;
+   justify-content: space-between;
+  }
+  .cote5{
+   width: 5%;
+   height:50vh ;
+   }
+  .tird{
+   width:100% ;
+   height: 50vh;
+   border: 1px solid rgb(187, 186, 186);
+   display: flex;
+   justify-content:space-between;
+  }
+  .article5{
+    width: 35%;
+   height: 50vh;
+  }
+  .article6{
+   width: 65%;
+   height: 50vh;
+  }
+  .cote6{
+   width: 5%;
+   height:50vh ;
+   }
+
+  .commande{
+   width: 100%;
+   height: 60vh;
+   border: 1px solid rgb(192, 190, 190);
+   display: flex;
+   justify-content: space-between;
+  }
+  .coteComm{
+   width: 5%;
+   height:60vh ;
+   }
+  .entrerCommande{
+   border: 1px solid rgb(192, 190, 190);
+   width: 100%;
+   height: 60vh;
+  }
+  h1{
+   font-size: larger;
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-style: normal;
+   text-align: justify;
+  }
+ 
+  .coteCom{
+    width: 5%;
+   height: 60vh;
+  }
+ #search{
+  width: 70%;
+  height: 5vh;
+ }
+ #quantity{
+  width: 45%;
+  height: 5vh;
+ }
+#piece{
+  width: 25%;
+  height: 5vh;
+}
+#bouton{
+  height: 7vh;
+  width: 25%;
+  border: 1px solid rgb(231, 228, 228);
+  border-radius: 10px;
+  background-color: rgb(242, 120, 76);
+}
+
+.blo4{
+  width: 100%;
+  height: 50vh;
+  display: flex;
+  justify-content: space-between;
+  }
+ .cote7{
+  width: 5%;
+  height:50vh ;
+  }
+ .contenu{
+  width:100% ;
+  height: 40vh;
+  border: 1px solid rgb(187, 186, 186);
+  display: flex;
+  justify-content:space-between;
+  margin-top: 10vh;
+ }
+ .contenu1{
+   width: 49%;
+  height: 40vh;
+ }
+ .contenu2{
+   width: 49%;
+  height: 40vh;
+ }
+ .cote8{
+  width: 5%;
+  height:50vh ;
+  }
+
+  .blo5{
+    width: 100%;
+    height: 50vh;
+    display: flex;
+    justify-content: space-between;
+    }
+   .cote9{
+    width: 5%;
+    height:50vh ;
+    }
+   .contenue{
+    width:100% ;
+    height: 40vh;
+    border: 1px solid rgb(187, 186, 186);
+    display: flex;
+    justify-content:space-between;
+    margin-top: 10vh;
+   }
+   .contenue1{
+     width: 49%;
+    height: 40vh;
+   }
+   .contenue2{
+     width: 49%;
+    height: 40vh;
+   }
+  .cote10{
+    width: 5%;
+    height:50vh ;
+  }
+
+  .blo6{
+    width: 100%;
+    height: 120vh;
+    border: 1px solid rgb(242, 236, 236);
+      }
+   .content{
+    width:100% ;
+    height: 100vh;
+    border: 1px solid rgb(187, 186, 186);
+    margin-top: 15vh;
+ 
+   }
+   #submi{
+    width: 40%;
+    height: 5vh;
+   }
+   #bouuton{
+    width: 20%;
+    height: 6vh;
+   }
+   .listeBas{
+    display: flex;
+    justify-content: space-between;
+   }
+ 
+ 
